@@ -4,5 +4,5 @@ entered by the user as well as the average.
 # Contact
 If you have any questions about this code feel free to contact me by any of the following listed below:                                                                             
 Email: mcastleberry1@stu.jsu.edu                                                                                                                                                   
-Twitter: Mottybiggy
+Twitter: Mottybiggy                                                                                                                                                                 
 Discord: M o t t y#8353
