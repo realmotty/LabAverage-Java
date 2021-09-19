@@ -44,7 +44,8 @@ System.out.println("Smallest: "+smallest+"\n");
 System.out.println("Largest: "+largest+"\n");
 System.out.println("Average: "+avg+"\n");
 	
-}                
+}   
+       
     }
     
 
