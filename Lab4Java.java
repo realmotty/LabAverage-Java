@@ -28,17 +28,22 @@ largest=1;
 //FINDS THE SMALLEST, LARGEST AND AVERAGE//
 for  (int i=0;i<10;i++){ 
 num = Input.nextInt();
-
-if (num < smallest){
+if (num < 1 || num > 100)
+{
+    System.out.println(" You have entered an invalid input. Please try again.");
+    num = Input.nextInt();
+}
+else if (num < smallest){
     smallest = num;
 }
 
-if (num > largest){
+else if (num > largest){
     largest = num;
 }
 sum+=num; 
 avg =  (double)sum / 10;
 }
+
 //PRINTS THE RESULTS//
 System.out.println("Smallest: "+smallest+"\n");
 System.out.println("Largest: "+largest+"\n");
