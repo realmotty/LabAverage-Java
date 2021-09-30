@@ -1,4 +1,4 @@
-# Lab4Average-Java
+# LabAverage-Java
 This program prompts the user to enter 10 integers between 1 and 100, then determine the smallest and largest values entered by the user as well as the average
 numbers entered by the user (expressed as a floating-point number) and will then print the smallest number, the largest number, and the average number
 with descriptive labels.
